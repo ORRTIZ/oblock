@@ -1,2 +1,2 @@
 # oblock
-Blockchain 
+3rd Party Solution (Hyperledger Fabric) Integration plugin
